@@ -27,6 +27,6 @@ Pour tester ce projet sur votre machine:
 
 > ⚠️ **Remarques :**
 > - **Bootstrap** est chargé via **CDN**, donc une connexion internet est nécessaire
-> - Pour que l’envoi d'e-mails (notifications, confirmations…) fonctionne, il est nécessaire de **configurer un serveur mail en local compatible avec PHP** (ex : **sendmail** pour ce projet)
+> - Pour que l’envoi d'e-mails (messages, confirmations…) fonctionne, il est nécessaire de **configurer un serveur mail en local compatible avec PHP** (ex : **sendmail** pour ce projet)
 
 
