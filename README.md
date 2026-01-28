@@ -1,7 +1,7 @@
 ## 🏋️‍♂️ SPORTIFY — Plateforme de réservation d'activités sportives
 
-Sportify est un site web permettant aux utilisateurs de réserver des créneaux pour différentes activités sportives
-Le projet comprend une interface utilisateur intuitive ainsi qu’un système de gestion de base de données pour organiser les réservations et les disponibilités
+Sportify est un site web permettant aux utilisateurs de réserver des créneaux pour différentes activités sportives.
+Le projet comprend une interface utilisateur intuitive ainsi qu’un système de gestion de base de données pour organiser les réservations et les disponibilités.
 
 ### 🚀 Fonctionnalités principales
 
